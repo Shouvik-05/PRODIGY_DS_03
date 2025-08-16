@@ -1,4 +1,4 @@
-# BANK_MARKETING_DT  
+# PRODIGY_DS_03
 # Bank Marketing Dataset - Decision Tree Prediction  
 
 This project is part of a **Machine Learning practice task** using the **Bank Marketing Dataset**.  
